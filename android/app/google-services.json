@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539321963573",
+    "project_id": "mossab-75b80",
+    "storage_bucket": "mossab-75b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539321963573:android:170e055686f2a1b8680d7c",
+        "android_client_info": {
+          "package_name": "com.example.mossab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539321963573-cur4l9vf645iqg97ll2ncudkhadq8ans.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNTZeoD2yRJDnTwum8_e5ICdzZeDEqUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539321963573-cur4l9vf645iqg97ll2ncudkhadq8ans.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
